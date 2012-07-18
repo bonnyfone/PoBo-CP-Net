@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/PoBo-CP-NET/src/pobo/common
+END
+AdjMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/PoBo-CP-NET/src/pobo/common/AdjMatrix.java
+END
+CPNETAdjMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19/trunk/PoBo-CP-NET/src/pobo/common/CPNETAdjMatrix.java
+END
+CPNETAdjList.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/59/trunk/PoBo-CP-NET/src/pobo/common/CPNETAdjList.java
+END
+ConjuctionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/44/trunk/PoBo-CP-NET/src/pobo/common/ConjuctionTable.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/PoBo-CP-NET/src/pobo/common/Util.java
+END
+XMLInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/49/trunk/PoBo-CP-NET/src/pobo/common/XMLInterface.java
+END
