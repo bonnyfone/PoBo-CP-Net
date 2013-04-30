@@ -12,6 +12,7 @@ Given an acyclic cp-net you can:
 
 - extract the **partial order** of solutions
 
+- create a cp-net using the frontend, **export** it in XML format, reuse it when you need (also via code, using PoBo-CP-Net as a library in your project)
 
 Application usage
 --
