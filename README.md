@@ -19,6 +19,8 @@ Application usage
 
 <pre><code>java -jar PoBoCPNET.jar</code></pre>
 
+![ScreenShot](./doc/pobo.png)
+
 
 -To use it as a library, first add the PoBoCPNET.jar in your path. Here it is a usage example:
 
