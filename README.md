@@ -8,7 +8,7 @@ Given an acyclic cp-net you can:
 
 - get the **optimal solution**
 
-- **compare** two solution
+- **compare** two solution 
 
 - extract the **partial order** of solutions
 
